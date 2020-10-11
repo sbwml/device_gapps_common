@@ -28,6 +28,7 @@
 -product/priv-app/AndroidMigratePrebuilt/AndroidMigratePrebuilt.apk;PRESIGNED
 -product/priv-app/ConfigUpdater/ConfigUpdater.apk;PRESIGNED
 -product/priv-app/ConnMetrics/ConnMetrics.apk;PRESIGNED
+-product/priv-app/FilesPrebuilt/FilesPrebuilt.apk;PRESIGNED
 -product/priv-app/GoogleDialer/GoogleDialer.apk;PRESIGNED
 -product/priv-app/OTAConfigPrebuilt/OTAConfigPrebuilt.apk;PRESIGNED
 -product/priv-app/PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk;PRESIGNED
@@ -66,6 +67,7 @@ product/etc/sysconfig/pixel_experience_2018.xml
 product/etc/sysconfig/pixel_experience_2019.xml
 product/etc/sysconfig/pixel_experience_2019_midyear.xml
 product/etc/sysconfig/pixel_experience_2020_midyear.xml
+product/etc/sysconfig/preinstalled-packages-product-pixel-2017-and-newer.xml
 product/lib64/libgdx.so
 product/lib64/libsketchology_native.so
 system_ext/etc/permissions/privapp-permissions-google-se.xml
