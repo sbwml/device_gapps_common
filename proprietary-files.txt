@@ -1,3 +1,6 @@
+# WallpaperPicker - Disable Update
+-system_ext/priv-app/WallpaperPickerGooglePrebuilt/WallpaperPickerGooglePrebuilt.apk|81b52ed44e87ad55182ac5aaa2a25db69f14f511
+
 -app/GoogleExtShared/GoogleExtShared.apk;PRESIGNED
 -app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk;PRESIGNED
 -priv-app/DocumentsUIGoogle/DocumentsUIGoogle.apk;PRESIGNED
@@ -47,7 +50,6 @@
 -system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk;PRESIGNED
 -system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;PRESIGNED
 -system_ext/priv-app/PixelSetupWizard/PixelSetupWizard.apk;PRESIGNED
--system_ext/priv-app/WallpaperPickerGooglePrebuilt/WallpaperPickerGooglePrebuilt.apk;PRESIGNED
 etc/permissions/privapp-permissions-google.xml
 product/app/Chrome/Chrome.apk.gz
 product/app/TrichromeLibrary/TrichromeLibrary.apk.gz
