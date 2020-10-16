@@ -73,3 +73,13 @@ product/etc/sysconfig/preinstalled-packages-product-pixel-2017-and-newer.xml
 product/lib64/libgdx.so
 product/lib64/libsketchology_native.so
 system_ext/etc/permissions/privapp-permissions-google-se.xml
+
+# 201017
+-product/priv-app/AmbientSensePrebuilt/AmbientSensePrebuilt.apk;PRESIGNED
+-product/priv-app/AndroidMigratePrebuilt/AndroidMigratePrebuilt.apk;PRESIGNED
+-product/priv-app/DevicePersonalizationPrebuiltPixel4/DevicePersonalizationPrebuiltPixel4.apk;PRESIGNED
+-product/priv-app/HotwordEnrollmentOKGoogleRT5514/HotwordEnrollmentOKGoogleRT5514.apk;PRESIGNED
+-product/priv-app/HotwordEnrollmentXGoogleRT5514/HotwordEnrollmentXGoogleRT5514.apk;PRESIGNED
+-product/priv-app/NovaBugreportWrapper/NovaBugreportWrapper.apk;PRESIGNED
+product/etc/firmware/music_detector.descriptor
+product/etc/firmware/music_detector.sound_model
