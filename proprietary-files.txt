@@ -1,5 +1,5 @@
 # WallpaperPicker - Disable Update
--system_ext/priv-app/WallpaperPickerGooglePrebuilt/WallpaperPickerGooglePrebuilt.apk|81b52ed44e87ad55182ac5aaa2a25db69f14f511
+-system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk
 
 -app/GoogleExtShared/GoogleExtShared.apk;PRESIGNED
 -app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk;PRESIGNED
@@ -14,17 +14,16 @@
 -product/app/LatinIMEGooglePrebuilt/LatinIMEGooglePrebuilt.apk;PRESIGNED
 -product/app/LocationHistoryPrebuilt/LocationHistoryPrebuilt.apk;PRESIGNED
 -product/app/MarkupGoogle/MarkupGoogle.apk;PRESIGNED
--product/app/NexusWallpapersStubPrebuilt2020_midyear/NexusWallpapersStubPrebuilt2020_midyear.apk;PRESIGNED
--product/app/Ornament/Ornament.apk;PRESIGNED
 -product/app/Photos/Photos.apk;PRESIGNED
--product/app/PixelThemesStub2020_midyear/PixelThemesStub2020_midyear.apk;PRESIGNED
+-product/app/PixelThemesStub/PixelThemesStub.apk;PRESIGNED
+-product/app/PixelWallpapers2020/PixelWallpapers2020.apk;PRESIGNED
 -product/app/PrebuiltBugle/PrebuiltBugle.apk;PRESIGNED
 -product/app/PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk;PRESIGNED
 -product/app/PrebuiltGmail/PrebuiltGmail.apk;PRESIGNED
 -product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk;PRESIGNED
 -product/app/talkback/talkback.apk;PRESIGNED
 -product/app/TrichromeLibrary-Stub/TrichromeLibrary-Stub.apk;PRESIGNED
--product/app/WallpapersBReel2020a/WallpapersBReel2020a.apk;PRESIGNED
+-product/app/WallpapersBReel2020/WallpapersBReel2020.apk;PRESIGNED
 -product/app/WebViewGoogle-Stub/WebViewGoogle-Stub.apk;PRESIGNED
 -product/framework/com.google.android.dialer.support.jar;PRESIGNED
 -product/priv-app/AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk;PRESIGNED
@@ -77,9 +76,9 @@ system_ext/etc/permissions/privapp-permissions-google-se.xml
 # 201017
 -product/priv-app/AmbientSensePrebuilt/AmbientSensePrebuilt.apk;PRESIGNED
 -product/priv-app/AndroidMigratePrebuilt/AndroidMigratePrebuilt.apk;PRESIGNED
--product/priv-app/DevicePersonalizationPrebuiltPixel4/DevicePersonalizationPrebuiltPixel4.apk;PRESIGNED
--product/priv-app/HotwordEnrollmentOKGoogleRT5514/HotwordEnrollmentOKGoogleRT5514.apk;PRESIGNED
--product/priv-app/HotwordEnrollmentXGoogleRT5514/HotwordEnrollmentXGoogleRT5514.apk;PRESIGNED
+-product/priv-app/DevicePersonalizationPrebuiltPixel2020/DevicePersonalizationPrebuiltPixel2020.apk;PRESIGNED
+-product/priv-app/HotwordEnrollmentOKGoogleRT5514P/HotwordEnrollmentOKGoogleRT5514P.apk;PRESIGNED
+-product/priv-app/HotwordEnrollmentXGoogleRT5514P/HotwordEnrollmentXGoogleRT5514P.apk;PRESIGNED
 -product/priv-app/NovaBugreportWrapper/NovaBugreportWrapper.apk;PRESIGNED
 product/etc/firmware/music_detector.descriptor
 product/etc/firmware/music_detector.sound_model
