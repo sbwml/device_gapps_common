@@ -4,6 +4,7 @@
 -app/GoogleExtShared/GoogleExtShared.apk;PRESIGNED
 -app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk;PRESIGNED
 -priv-app/DocumentsUIGoogle/DocumentsUIGoogle.apk;PRESIGNED
+-priv-app/GooglePackageInstaller/GooglePackageInstaller.apk;PRESIGNED
 -product/app/arcore/arcore.apk;PRESIGNED
 -product/app/CalculatorGooglePrebuilt/CalculatorGooglePrebuilt.apk;PRESIGNED
 -product/app/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk;PRESIGNED
