@@ -24,7 +24,7 @@ etc/permissions/privapp-permissions-google.xml
 -product/app/NexusWallpapersStubPrebuilt2020_midyear/NexusWallpapersStubPrebuilt2020_midyear.apk;PRESIGNED
 -product/app/Ornament/Ornament.apk;PRESIGNED
 -product/app/Photos/Photos.apk;PRESIGNED
--product/app/PixelThemesStub2020_midyear/PixelThemesStub2020_midyear.apk;PRESIGNED
+-product/app/PixelThemesStub/PixelThemesStub.apk;PRESIGNED
 -product/app/PrebuiltBugle/PrebuiltBugle.apk;PRESIGNED
 -product/app/PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk;PRESIGNED
 -product/app/PrebuiltGmail/PrebuiltGmail.apk;PRESIGNED
@@ -44,8 +44,8 @@ etc/permissions/privapp-permissions-google.xml
 -product/priv-app/DevicePersonalizationPrebuiltPixel4/DevicePersonalizationPrebuiltPixel4.apk;PRESIGNED
 -product/priv-app/FilesPrebuilt/FilesPrebuilt.apk;PRESIGNED
 -product/priv-app/GoogleDialer/GoogleDialer.apk;PRESIGNED
--product/priv-app/HotwordEnrollmentOKGoogleRT5514/HotwordEnrollmentOKGoogleRT5514.apk;PRESIGNED
--product/priv-app/HotwordEnrollmentXGoogleRT5514/HotwordEnrollmentXGoogleRT5514.apk;PRESIGNED
+-product/priv-app/HotwordEnrollmentOKGoogleRT5514P/HotwordEnrollmentOKGoogleRT5514P.apk;PRESIGNED
+-product/priv-app/HotwordEnrollmentXGoogleRT5514P/HotwordEnrollmentXGoogleRT5514P.apk;PRESIGNED
 -product/priv-app/MaestroPrebuilt/MaestroPrebuilt.apk;PRESIGNED
 -product/priv-app/NovaBugreportWrapper/NovaBugreportWrapper.apk;PRESIGNED
 -product/priv-app/OTAConfigPrebuilt/OTAConfigPrebuilt.apk;PRESIGNED
@@ -90,7 +90,6 @@ product/lib64/libgdx.so
 product/lib64/libsketchology_native.so
 product/priv-app/MyVerizonServices/lib/arm64/libakuaf.so:product/lib64/libakuaf.so
 product/priv-app/MyVerizonServices/lib/arm64/libmotricity.so:product/lib64/libmotricity.so
-product/priv-app/SCONE/lib/arm64/libborders_scone_leveldb_jni.so:product/lib64/libborders_scone_leveldb_jni.so
 product/usr/share/ime/google/d3_lms/ko_2018030706.zip
 product/usr/share/ime/google/d3_lms/mozc.data
 product/usr/share/ime/google/d3_lms/zh_CN_2018030706.zip
@@ -169,5 +168,5 @@ product/usr/srec/en-US/wordlist.syms
 -system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;PRESIGNED
 -system_ext/priv-app/PixelSetupWizard/PixelSetupWizard.apk;PRESIGNED
 -system_ext/priv-app/StorageManagerGoogle/StorageManagerGoogle.apk;PRESIGNED
--system_ext/priv-app/WallpaperPickerGooglePrebuilt/WallpaperPickerGooglePrebuilt.apk|81b52ed44e87ad55182ac5aaa2a25db69f14f511
+-system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk;PRESIGNED
 system_ext/etc/permissions/privapp-permissions-google-se.xml
