@@ -39,6 +39,11 @@ etc/permissions/privapp-permissions-google.xml
 -product/priv-app/AmbientSensePrebuilt/AmbientSensePrebuilt.apk;PRESIGNED
 -product/priv-app/AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk;PRESIGNED
 -product/priv-app/AndroidMigratePrebuilt/AndroidMigratePrebuilt.apk;PRESIGNED
+-product/priv-app/CarrierLocation/CarrierLocation.apk;PRESIGNED
+-product/priv-app/CarrierMetrics/CarrierMetrics.apk;PRESIGNED
+-product/priv-app/CarrierServices/CarrierServices.apk;PRESIGNED
+-product/priv-app/CarrierServices/CarrierServices.apk;PRESIGNED
+-product/priv-app/CarrierWifi/CarrierWifi.apk;PRESIGNED
 -product/priv-app/ConfigUpdater/ConfigUpdater.apk;PRESIGNED
 -product/priv-app/ConnMetrics/ConnMetrics.apk;PRESIGNED
 -product/priv-app/DevicePersonalizationPrebuiltPixel4/DevicePersonalizationPrebuiltPixel4.apk;PRESIGNED
@@ -167,6 +172,7 @@ product/usr/srec/en-US/wordlist.syms
 -system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk;PRESIGNED
 -system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;PRESIGNED
 -system_ext/priv-app/PixelSetupWizard/PixelSetupWizard.apk;PRESIGNED
+-system_ext/priv-app/RilConfigService/RilConfigService.apk;PRESIGNED
 -system_ext/priv-app/StorageManagerGoogle/StorageManagerGoogle.apk;PRESIGNED
 -system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk;PRESIGNED
 system_ext/etc/permissions/privapp-permissions-google-se.xml
