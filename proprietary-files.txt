@@ -79,6 +79,7 @@ product/etc/permissions/privapp-permissions-google-p.xml
 product/etc/permissions/split-permissions-google.xml
 product/etc/preferred-apps/google.xml
 product/etc/sysconfig/google-hiddenapi-package-whitelist.xml
+product/etc/sysconfig/google-rollback-package-whitelist.xml
 product/etc/sysconfig/google.xml
 product/etc/sysconfig/google_build.xml
 product/etc/sysconfig/nexus.xml
