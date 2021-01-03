@@ -71,7 +71,6 @@ etc/permissions/privapp-permissions-google.xml
 -product/priv-app/PrebuiltGmsCore/PrebuiltGmsCoreRvc.apk:product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk;PRESIGNED
 -product/priv-app/RecorderPrebuilt/RecorderPrebuilt.apk;PRESIGNED
 -product/priv-app/SafetyHubPrebuilt/SafetyHubPrebuilt.apk;PRESIGNED
--product/priv-app/SCONE/SCONE.apk;PRESIGNED
 -product/priv-app/ScribePrebuilt/ScribePrebuilt.apk;PRESIGNED
 -product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;PRESIGNED
 -product/priv-app/SetupWizardPrebuilt/SetupWizardPrebuilt.apk;PRESIGNED
