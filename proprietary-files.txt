@@ -177,6 +177,5 @@ product/usr/srec/en-US/wordlist.syms
 -system_ext/priv-app/PixelSetupWizard/PixelSetupWizard.apk;PRESIGNED
 -system_ext/priv-app/RilConfigService/RilConfigService.apk;PRESIGNED
 -system_ext/priv-app/StorageManagerGoogle/StorageManagerGoogle.apk;PRESIGNED
--system_ext/priv-app/TurboAdapter/TurboAdapter.apk;PRESIGNED
 -system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk;PRESIGNED
 system_ext/etc/permissions/privapp-permissions-google-se.xml
