@@ -167,6 +167,7 @@ product/usr/srec/en-US/word_confidence_classifier
 product/usr/srec/en-US/wordlist.syms
 
 # system_ext
+-system_ext/app/Flipendo/Flipendo.apk;PRESIGNED
 -system_ext/priv-app/CarrierSetup/CarrierSetup.apk;PRESIGNED
 -system_ext/priv-app/GoogleFeedback/GoogleFeedback.apk;PRESIGNED
 -system_ext/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk;PRESIGNED
