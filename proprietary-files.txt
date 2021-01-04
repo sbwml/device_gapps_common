@@ -12,7 +12,7 @@ etc/permissions/privapp-permissions-google.xml
 -product/app/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk;PRESIGNED
 -product/app/Chrome-Stub/Chrome-Stub.apk;PRESIGNED
 -product/app/DevicePolicyPrebuilt/DevicePolicyPrebuilt.apk;PRESIGNED
--product/app/DiagnosticsToolPrebuilt/DiagnosticsToolPrebuilt.apk
+-product/app/DiagnosticsToolPrebuilt/DiagnosticsToolPrebuilt.apk;PRESIGNED
 -product/app/GoogleContacts/GoogleContacts.apk;PRESIGNED
 -product/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk;PRESIGNED
 -product/app/GoogleTTS/GoogleTTS.apk;PRESIGNED
