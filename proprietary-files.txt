@@ -20,7 +20,6 @@ etc/permissions/privapp-permissions-google.xml
 -product/app/LocationHistoryPrebuilt/LocationHistoryPrebuilt.apk;PRESIGNED
 -product/app/MarkupGoogle/MarkupGoogle.apk;PRESIGNED
 -product/app/MicropaperPrebuilt/MicropaperPrebuilt.apk;PRESIGNED
--product/app/ModuleMetadataGoogle/ModuleMetadataGoogle.apk;PRESIGNED
 -product/app/NexusWallpapersStubPrebuilt2020_midyear/NexusWallpapersStubPrebuilt2020_midyear.apk;PRESIGNED
 -product/app/Ornament/Ornament.apk;PRESIGNED
 -product/app/Photos/Photos.apk;PRESIGNED
