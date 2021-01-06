@@ -1,3 +1,15 @@
+# product - PrebuiltGmsCore - Android.mk
+#product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreRvc_AdsDynamite.apk
+#product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreRvc_CronetDynamite.apk
+#product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreRvc_DynamiteLoader.apk
+#product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreRvc_DynamiteModulesA.apk
+#product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreRvc_DynamiteModulesC.apk
+#product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreRvc_GoogleCertificates.apk
+#product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreRvc_MapsDynamite.apk
+#product/priv-app/PrebuiltGmsCore/app_chimera/m/PrebuiltGmsCoreRvc_MeasurementDynamite.apk
+#product/priv-app/PrebuiltGmsCore/m/independent/AndroidPlatformServices.apk
+#product/priv-app/PrebuiltGmsCore/PrebuiltGmsCoreRvc.apk
+
 # system
 -app/GoogleExtShared/GoogleExtShared.apk;PRESIGNED
 -app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk;PRESIGNED
@@ -52,12 +64,9 @@ etc/permissions/privapp-permissions-google.xml
 -product/priv-app/HotwordEnrollmentXGoogleRT5514P/HotwordEnrollmentXGoogleRT5514P.apk;PRESIGNED
 -product/priv-app/MaestroPrebuilt/MaestroPrebuilt.apk;PRESIGNED
 -product/priv-app/NovaBugreportWrapper/NovaBugreportWrapper.apk;PRESIGNED
--product/priv-app/OTAConfigPrebuilt/OTAConfigPrebuilt.apk;PRESIGNED
 -product/priv-app/PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk;PRESIGNED
 -product/priv-app/Phonesky/Phonesky.apk;PRESIGNED
 -product/priv-app/PixelLiveWallpaperPrebuilt/PixelLiveWallpaperPrebuilt.apk;PRESIGNED
--product/priv-app/PrebuiltGmsCore/m/independent/AndroidPlatformServices.apk;PRESIGNED
--product/priv-app/PrebuiltGmsCore/PrebuiltGmsCoreRvc.apk:product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk;PRESIGNED
 -product/priv-app/RecorderPrebuilt/RecorderPrebuilt.apk;PRESIGNED
 -product/priv-app/SafetyHubPrebuilt/SafetyHubPrebuilt.apk;PRESIGNED
 -product/priv-app/ScribePrebuilt/ScribePrebuilt.apk;PRESIGNED
